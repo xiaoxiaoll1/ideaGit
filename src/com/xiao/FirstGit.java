@@ -11,5 +11,6 @@ public class FirstGit {
 
     public void test(){
         System.out.println("dfjsio");
+        System.out.println("xingde");
     }
 }
